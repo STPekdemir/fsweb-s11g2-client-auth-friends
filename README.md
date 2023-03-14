@@ -31,19 +31,19 @@ Tüm karakter nesneleri aşağıdaki biçimdedir:
 
 ### Görev 1: Proje Kurulumu
 
-- [ ] Forklayın.
-- [ ] Klonlayın
-- [ ] Ana dizine gidin
-- [ ] `npm install`
-- [ ] `npm start`
+- [+] Forklayın.
+- [+] Klonlayın
+- [+] Ana dizine gidin
+- [+] `npm install`
+- [+] `npm start`
 
 ### Görev 2: Proje Gereksinimleri
 
 #### Login (kullanıcı girişi) bileşenini oluşturun
 
-- [ ] Örnekteki login sayfası gibi [mockup](./designs/login_mockup.png) bir login bileşeni oluşturun.
-- [ ] `App.js` içine, `/` ya da `/login` ziyaret edildiğinde bu bileşeni gösteren bir route ekleyin
-- [ ] Login formu gönderildiğinde, döndürülen tokeni localStorage e kaydedin ve sayfayı FriendsList sayfasına yönlendirin
+- [+] Örnekteki login sayfası gibi [mockup](./designs/login_mockup.png) bir login bileşeni oluşturun.
+- [+] `App.js` içine, `/` ya da `/login` ziyaret edildiğinde bu bileşeni gösteren bir route ekleyin
+- [+] Login formu gönderildiğinde, döndürülen tokeni localStorage e kaydedin ve sayfayı FriendsList sayfasına yönlendirin
 
 #### FriendsList bileşenini oluşturun
 
